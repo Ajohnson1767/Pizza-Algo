@@ -9,3 +9,4 @@
 6.Greet delivery driver
     6a. Tip delivery drive
     6b Steal Pizza
+7. Eat pizza
