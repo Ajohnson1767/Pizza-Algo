@@ -11,3 +11,4 @@
     6b Steal Pizza
 7. Eat pizza
 8. Throw away pizza box
+    8a. In trash can not on floor
