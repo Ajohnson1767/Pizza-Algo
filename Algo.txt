@@ -6,7 +6,7 @@
     4a. Pay over phone
     4b. Pay at door
 5. Wait for delivery
-    5a Creepily watch the delivery driver drive on the mini map
+    5a Creepily watch the delivery driver drive on the map
     5b If youre getting impatient revert back to 5a
 6.Greet delivery driver
     6a. Tip delivery driver
