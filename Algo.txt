@@ -7,5 +7,5 @@
     4b. Pay at door
 5. Wait for delivery
 6.Greet delivery driver
-    6a Tip delivery driver
+    6a. Tip delivery driver
 7. See step 4b if necessary
